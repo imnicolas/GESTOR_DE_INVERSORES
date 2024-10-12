@@ -1,0 +1,10 @@
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\bin\Debug\GESTOR_DE_ACCIONISTAS.exe.config
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\bin\Debug\GESTOR_DE_ACCIONISTAS.exe
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\bin\Debug\GESTOR_DE_ACCIONISTAS.pdb
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.csproj.AssemblyReference.cache
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.Properties.Resources.resources
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.csproj.GenerateResource.cache
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.exe
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.pdb
+C:\Users\windows\source\repos\GESTOR_DE_ACCIONISTAS\GESTOR_DE_ACCIONISTAS\obj\Debug\GESTOR_DE_ACCIONISTAS.Form1.resources
